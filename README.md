@@ -18,23 +18,23 @@
 
 <br>
 
-:pencil2: 算法
---------------
+:pencil2: 数据结构与算法
+------------------------
 
--	[剑指 Offer 题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/剑指%20Offer%20题解%20-%20目录.md)
--	[Leetcode 题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20题解%20-%20目录.md)
--	[算法](https://github.com/CyC2018/CS-Notes/blob/master/notes/算法%20-%20目录.md)
+-	[数据结构与算法](/算法数据结构/README.md)
 
 :computer: 操作系统
 -------------------
 
--	[计算机操作系统](https://github.com/CyC2018/CS-Notes/blob/master/notes/计算机操作系统%20-%20目录.md)
--	[Linux](https://github.com/CyC2018/CS-Notes/blob/master/notes/Linux.md)
+-	[计算机操作系统（简版）](/Computer%20System（simple）/计算机操作系统%20-%20目录.md)
+-	[计算机操作系统（哈工大）](/Computer%20System（simple）/计算机操作系统%20-%20目录.md)
+-	[计算机科学速成课](/Crash%20Course%20Computer%20Science(计算机速成课）)
+-	[Linux](/Linux/README.md)
 
 :cloud: 网络
 ------------
 
--	[计算机网络](https://github.com/CyC2018/CS-Notes/blob/master/notes/计算机网络%20-%20目录.md)
+-	[计算机网络](/Network/network-guide.md)
 -	[HTTP](https://github.com/CyC2018/CS-Notes/blob/master/notes/HTTP.md)
 -	[Socket](https://github.com/CyC2018/CS-Notes/blob/master/notes/Socket.md)
 
