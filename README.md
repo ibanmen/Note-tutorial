@@ -1,14 +1,8 @@
-<div align="center">
-    <a href="https://gitstar-ranking.com/repositories"> <img src="https://badgen.net/badge/Rank/20?icon=github&color=4ab8a1"></a>
-    <a href="assets/download.md"> <img src="https://badgen.net/badge/OvO/%E7%A6%BB%E7%BA%BF%E4%B8%8B%E8%BD%BD?icon=telegram&color=4ab8a1"></a>
-    <a href="https://cyc2018.github.io/CS-Notes"> <img src="https://badgen.net/badge/CyC/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB?icon=sourcegraph&color=4ab8a1"></a>
-    <a href="#微信公众号"> <img src="https://badgen.net/badge/%e5%85%ac%e4%bc%97%e5%8f%b7/CyC2018?icon=rss&color=4ab8a1"></a>
-</div>
 <br>
 
-| &nbsp;算法&nbsp; | 操作系统 | &nbsp;网络&nbsp;|面向对象| &nbsp;&nbsp;数据库&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;|         系统设计| &nbsp;&nbsp;&nbsp;工具&nbsp;&nbsp;&nbsp; |编码实践| &nbsp;&nbsp;&nbsp;后记&nbsp;&nbsp;&nbsp; |
-| :---: | :----: | :---: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| [:pencil2:](#pencil2-算法) | [:computer:](#computer-操作系统) | [:cloud:](#cloud-网络) | [:art:](#art-面向对象) | [:floppy_disk:](#floppy_disk-数据库) |[:coffee:](#coffee-java)| [:bulb:](#bulb-系统设计) |[:wrench:](#wrench-工具)| [:watermelon:](#watermelon-编码实践) |[:memo:](#memo-后记)|
+| &nbsp;算法&nbsp;           | 操作系统                         | &nbsp;网络&nbsp;       | 面向对象               | &nbsp;&nbsp;数据库&nbsp;&nbsp;       | &nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp; | 系统设计                 | &nbsp;&nbsp;&nbsp;工具&nbsp;&nbsp;&nbsp; | 编码实践                             | &nbsp;&nbsp;&nbsp;后记&nbsp;&nbsp;&nbsp; |
+|:--------------------------:|:--------------------------------:|:----------------------:|:----------------------:|:------------------------------------:|:----------------------------------------:|:------------------------:|:----------------------------------------:|:------------------------------------:|:----------------------------------------:|
+| [:pencil2:](#pencil2-算法) | [:computer:](#computer-操作系统) | [:cloud:](#cloud-网络) | [:art:](#art-面向对象) | [:floppy_disk:](#floppy_disk-数据库) |         [:coffee:](#coffee-java)         | [:bulb:](#bulb-系统设计) |         [:wrench:](#wrench-工具)         | [:watermelon:](#watermelon-编码规范) |           [:memo:](#memo-后记)           |
 
 <br>
 
@@ -27,58 +21,61 @@
 -------------------
 
 -	[计算机操作系统（简版）](/Computer%20System（simple）/计算机操作系统%20-%20目录.md)
--	[计算机操作系统（哈工大）](/Computer%20System（simple）/计算机操作系统%20-%20目录.md)
--	[计算机科学速成课](/Crash%20Course%20Computer%20Science(计算机速成课）)
+-	[计算机操作系统（哈工大）](/Computer%20System（哈工大）)
+-	[计算机科学速成课](/master/Crash%20Course%20Computer%20Science(计算机速成课）/README.md)
 -	[Linux](/Linux/README.md)
 
 :cloud: 网络
 ------------
 
 -	[计算机网络](/Network/network-guide.md)
--	[HTTP](https://github.com/CyC2018/CS-Notes/blob/master/notes/HTTP.md)
--	[Socket](https://github.com/CyC2018/CS-Notes/blob/master/notes/Socket.md)
 
-:art: 面向对象
---------------
+:art: 运维
+----------
 
--	[设计模式](https://github.com/CyC2018/CS-Notes/blob/master/notes/设计模式.md)
--	[面向对象思想](https://github.com/CyC2018/CS-Notes/blob/master/notes/面向对象思想.md)
+-	[常用软件运维](https://github.com/laoapoer2018/Note-tutorial/tree/master/DevOps)
+-	[shell实例手册](/ops/shell实例手册.sh)
+-	[Vim 应用指南](/ops/vim.md)
 
 :floppy_disk: 数据库
 --------------------
 
--	[数据库系统原理](https://github.com/CyC2018/CS-Notes/blob/master/notes/数据库系统原理.md)
--	[SQL](https://github.com/CyC2018/CS-Notes/blob/master/notes/SQL.md)
--	[Leetcode-Database 题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode-Database%20题解.md)
--	[MySQL](https://github.com/CyC2018/CS-Notes/blob/master/notes/MySQL.md)
--	[Redis](https://github.com/CyC2018/CS-Notes/blob/master/notes/Redis.md)
+-	[数据库系统原理](/Date%20Base/docs/sql/sql-theory.md)
+-	[SQL](/Date%20Base/docs/sql/sql-grammar.md)
+-	[关系型数据库面试题](/Date%20Base/docs/sql/sql-interview.md)
+-	[PostgreSQL 快速指南](/Date%20Base/docs/sql/postgresql.md)
+-	[Redis](/Date%20Base/docs/nosql/redis/README.md)
 
-:coffee: Java
--------------
+:coffee: Python
+---------------
 
--	[Java 基础](https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20基础.md)
--	[Java 容器](https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20容器.md)
--	[Java 并发](https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20并发.md)
--	[Java 虚拟机](https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20虚拟机.md)
--	[Java I/O](https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20IO.md)
+-	[Python 简约](https://github.com/laoapoer2018/Note-tutorial/blob/master/ops/python.md)
+-	[Python - 100天从新手到大师](https://github.com/laoapoer2018/Python-100-Days)
 
 :bulb: 系统设计
 ---------------
 
--	[系统设计基础](https://github.com/CyC2018/CS-Notes/blob/master/notes/系统设计基础.md)
--	[分布式](https://github.com/CyC2018/CS-Notes/blob/master/notes/分布式.md)
--	[集群](https://github.com/CyC2018/CS-Notes/blob/master/notes/集群.md)
--	[攻击技术](https://github.com/CyC2018/CS-Notes/blob/master/notes/攻击技术.md)
--	[缓存](https://github.com/CyC2018/CS-Notes/blob/master/notes/缓存.md)
--	[消息队列](https://github.com/CyC2018/CS-Notes/blob/master/notes/消息队列.md)
+-	[系统设计基础](https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md)
+-	[分布式](https://github.com/laoapoer2018/Note-tutorial/blob/master/Design/architecture/%E5%88%86%E5%B8%83%E5%BC%8F%E5%8E%9F%E7%90%86.md)
+-	[分布式面试题](https://github.com/laoapoer2018/Note-tutorial/blob/master/Design/distributed/distributed-interview.md)
+-	[分布式基本原理](https://github.com/laoapoer2018/Note-tutorial/blob/master/Design/distributed/distributed-base.md)
+-	[代码重构](https://github.com/laoapoer2018/Note-tutorial/tree/master/Design/refactor)
+-	[UML](https://github.com/laoapoer2018/Note-tutorial/blob/master/Design/UML.md)
 
-:wrench: 工具
--------------
+:wrench: 工具教程
+-----------------
 
--	[Git](https://github.com/CyC2018/CS-Notes/blob/master/notes/Git.md)
--	[Docker](https://github.com/CyC2018/CS-Notes/blob/master/notes/Docker.md)
--	[构建工具](https://github.com/CyC2018/CS-Notes/blob/master/notes/构建工具.md)
--	[正则表达式](https://github.com/CyC2018/CS-Notes/blob/master/notes/正则表达式.md)
+-	[Git](/Service/git/README.md)
+-	[Docker](/Service/docker-tutorial/README.md)
+-	[Nginx](/Service/nginx-tutorial)
+
+:watermelon:编码规范
+--------------------
+
+-	[软件工程与项目管理](/Method/software-engineering.md)
+-	[项目规范](/Method/project-style.md)
+-	[技术文档规范](/Method/doc-style.md)
+-	[目录规范](/Method/dir-style.md)
 
 学习资源
 --------

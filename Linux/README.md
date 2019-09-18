@@ -8,9 +8,9 @@ dir
 
 [04-Linux压缩打包](04-Linux压缩打包.md)
 
-[05-Linux 软件安装](05-Linux 软件安装.md)
+[05-Linux 软件安装](05-Linux软件安装.md)
 
-[06-Vim 编辑器](06-Vim 编辑器.md)
+[06-Vim 编辑器](06-Vim编辑器.md)
 
 [07-Bash简介](07-Bash简介.md)
 
