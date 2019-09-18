@@ -3,9 +3,9 @@
 
 <br>我想为那些非科班、培训班出身的道友提供一个系统学习的地方，完善Linux运维类知识体系、。这想法很"伟大"，很幼稚，还不知所谓，自己就那么几斤几两，还想写教程，是要误人子弟呢，还是误人子弟呢？但是，我自己的亲身经历告诉我，只要体系够完整，知识够系统，就能让那些正在苦海中挣扎的人找到方向，找到归属感。哪怕有些地方写错了，也无关紧要，对与错，对于学习的人来说，一点都不重要，如果某些地方有误，欢迎指正，谢谢！<br><br>
 
-| &nbsp;数据结构与算法&nbsp; | 操作系统                         | &nbsp;网络&nbsp;       | 运维                   | &nbsp;&nbsp;数据库&nbsp;&nbsp;       | &nbsp;                     | 系统设计&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;工具教程   | 编码规范                             | &nbsp;&nbsp;&nbsp;学习资源&nbsp;&nbsp;&nbsp; |
-|:--------------------------:|:--------------------------------:|:----------------------:|:----------------------:|:------------------------------------:|:--------------------------:|:--------------------------:|:----------------------------:|:------------------------------------:|:--------------------------------------------:|
-| [:pencil2:](#pencil2-算法) | [:computer:](#computer-操作系统) | [:cloud:](#cloud-网络) | [:art:](#art-面向对象) | [:floppy_disk:](#floppy_disk-数据库) | [:coffee:](#coffee-python) |  [:bulb:](#bulb-系统设计)  | [:wrench:](#wrench-工具教程) | [:watermelon:](#watermelon-编码规范) |           [:memo:](#memo-学习资源)           |
+| &nbsp;数据结构与算法&nbsp; | 操作系统                         | &nbsp;网络&nbsp;       | 运维                   | &nbsp;&nbsp;数据库&nbsp;&nbsp;       | &nbsp;                     | 系统设计&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;工具教程   | 编码规范                             | &nbsp;&nbsp;&nbsp;大数据&nbsp;&nbsp;&nbsp; |
+|:--------------------------:|:--------------------------------:|:----------------------:|:----------------------:|:------------------------------------:|:--------------------------:|:--------------------------:|:----------------------------:|:------------------------------------:|:------------------------------------------:|
+| [:pencil2:](#pencil2-算法) | [:computer:](#computer-操作系统) | [:cloud:](#cloud-网络) | [:art:](#art-面向对象) | [:floppy_disk:](#floppy_disk-数据库) | [:coffee:](#coffee-python) |  [:bulb:](#bulb-系统设计)  | [:wrench:](#wrench-工具教程) | [:watermelon:](#watermelon-编码规范) |           [:memo:](#memo-大数据)           |
 
 <br>
 
@@ -26,12 +26,13 @@
 -	[计算机操作系统（简版）](/Computer%20System（simple）/计算机操作系统%20-%20目录.md)
 -	[计算机操作系统（哈工大）](/Computer%20System（哈工大）)
 -	[计算机科学速成课](/Crash%20Course%20Computer%20Science/README.md)
--	[Linux](/Linux/README.md)
+-	[Linux教程](/Linux/README.md)
 
 :cloud: 网络
 ------------
 
--	[计算机网络](/Network/network-guide.md)
+-	[计算机网络教程](/Network/network-guide.md)
+-	[计算机网络（简版）](/Network/Computer-Network.md)
 
 :art: 运维
 ----------
@@ -79,6 +80,11 @@
 -	[项目规范](/Method/project-style.md)
 -	[技术文档规范](/Method/doc-style.md)
 -	[目录规范](/Method/dir-style.md)
+
+:memo:大数据
+------------
+
+-	[大数据](/Bigdata/README.md)
 
 学习资源
 --------
