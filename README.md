@@ -22,7 +22,7 @@
 
 -	[计算机操作系统（简版）](/Computer%20System（simple）/计算机操作系统%20-%20目录.md)
 -	[计算机操作系统（哈工大）](/Computer%20System（哈工大）)
--	[计算机科学速成课](/master/Crash%20Course%20Computer%20Science(计算机速成课）/README.md)
+-	[计算机科学速成课](/Crash%20Course%20Computer%20Science(计算机速成课）)
 -	[Linux](/Linux/README.md)
 
 :cloud: 网络
