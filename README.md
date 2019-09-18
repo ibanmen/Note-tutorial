@@ -93,7 +93,6 @@
 
 	-	[Github中国和全球用户排名，全球仓库Star最多排名](https://github.com/jaywcjlove/github-rank)
 	-	[GitHub上有趣、入门级的开源项目](https://github.com/521xueweihan/HelloGitHub)
-	-       [GitHub上有趣、入门级的开源项目](https://github.com/521xueweihan/HelloGitHub)
 
 -	命令行检索
 
