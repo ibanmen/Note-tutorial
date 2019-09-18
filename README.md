@@ -73,16 +73,16 @@
 -	[Docker](/Service/docker-tutorial/README.md)
 -	[Nginx](/Service/nginx-tutorial)
 
-:watermelon:编码规范
---------------------
+:watermelon: 编码规范
+---------------------
 
 -	[软件工程与项目管理](/Method/software-engineering.md)
 -	[项目规范](/Method/project-style.md)
 -	[技术文档规范](/Method/doc-style.md)
 -	[目录规范](/Method/dir-style.md)
 
-:memo:大数据
-------------
+:memo: 大数据
+-------------
 
 -	[大数据](/Bigdata/README.md)
 
