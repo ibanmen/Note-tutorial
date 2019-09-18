@@ -1,7 +1,8 @@
 ---
 
-title: 网络协议之 HTTP categories: ['communication'] tags: ['communication', 'network', 'application', 'protocol']
-
+title: 网络协议之 HTTP 
+categories: ['communication'] 
+tags: ['communication', 'network', 'application', 'protocol']
 date: 2019-9-17 22:14
 ---------------------
 
