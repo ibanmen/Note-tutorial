@@ -8,8 +8,6 @@ date: 2019-9-17 22:14
 网络协议之 HTTP
 ===============
 
-> :notebook: 本文已归档到：「[blog](https://github.com/dunwu/blog)」
-
 <!-- TOC depthFrom:2 depthTo:3 -->
 
 -	[HTTP 是什么？](#http-是什么)

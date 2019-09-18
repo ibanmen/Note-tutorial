@@ -8,8 +8,6 @@ date: 2019-9-17 20:54
 ICMP
 ====
 
-> :notebook: 本文已归档到：「[blog](https://github.com/dunwu/blog)」
-
 <!-- TOC depthFrom:2 depthTo:3 -->
 
 -	[ICMP 简介](#icmp-简介)
