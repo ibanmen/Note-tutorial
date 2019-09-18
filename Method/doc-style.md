@@ -2,7 +2,7 @@
 title: 合理编排你的技术文档
 categories: ['method']
 tags: ['method', 'doc']
-date: 2019-03-06
+date: 2019-09-06
 ---
 
 # 技术文档规范
