@@ -85,7 +85,7 @@
 
 -	Github
 
-\-[Github 中国和全球用户排名，全球仓库 Star 最多排名](https://github.com/jaywcjlove/github-rank)
+	-	[Github中国和全球用户排名，全球仓库Star最多排名](https://github.com/jaywcjlove/github-rank)
 
 -	命令行检索
 
