@@ -1,9 +1,9 @@
 ---
 
-title: 计算机网络之数据链路层 categories: ['communication'] tags: ['communication', 'network', 'data link']
-
+title: 计算机网络之数据链路层 
+categories: ['communication'] tags: ['communication', 'network', 'data link']
 date: 2019-9-17
----------------
+---
 
 计算机网络之数据链路层
 ======================
