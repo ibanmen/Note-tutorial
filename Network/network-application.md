@@ -1,9 +1,10 @@
 ---
 
-title: 计算机网络之应用层 categories: ['communication'] tags: ['communication', 'network', 'application']
-
+title: 计算机网络之应用层 
+categories: ['communication'] 
+tags: ['communication', 'network', 'application']
 date: 2019-9-17
----------------
+---
 
 计算机网络之应用层
 ==================
