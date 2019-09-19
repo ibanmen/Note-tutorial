@@ -70,6 +70,7 @@
 -----------------
 
 -	[Git](/Service/git/README.md)
+-	[Git Sourcetree安装使用 ](https://github.com/laoapoer2018/git-sourcetree/blob/dev1/install.md)
 -	[Docker](/Service/docker-tutorial/README.md)
 -	[Nginx](/Service/nginx-tutorial)
 
